@@ -58,4 +58,4 @@ Low-income populations was the biggest predictor for heart attack risk from our 
 ### Repository Navigation ###
 
 [View Presentation on Google Slides](https://docs.google.com/presentation/d/1RsxMgCRa7LfmHMT9YG2YNTu4p7qFwAQr-dlwW8AONHM/edit#slide=id.p)
-[Jupyter Notebook](Heart Attack Analysis.ipynb)
+[Heart Attack Analysis.ipynb](http://localhost:8888/notebooks/heart_attack_analysis/Heart%20Attack%20Analysis.ipynb#Conclusion)
